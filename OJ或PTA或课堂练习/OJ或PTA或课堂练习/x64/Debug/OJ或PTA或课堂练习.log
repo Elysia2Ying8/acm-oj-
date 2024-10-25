@@ -1,0 +1,67 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OJ或PTA或课堂练习.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  OJ-1000-A+B.c
+  OJ-1039-状态表示 Ⅲ.c
+  OJ-1040-魔幻跳跃 Ⅰ.c
+  OJ-1136-前缀和 Ⅱ.c
+  OJ-1222-九进制转十进制.c
+  OJ-1273-桶排序 Ⅰ.c
+  OJ-1274-桶排序.c
+  OJ-1529- A+B for Input-Output Practice (I).c
+  OJ-1530-A+B for Input-Output Practice (II).c
+  OJ-1531-A+B for Input-Output Practice (III).c
+  OJ-1532-A+B for Input-Output Practice (IV).c
+  OJ-1533-A+B for Input-Output Practice (V).c
+  OJ-1534-A+B for Input-Output Practice (VI).c
+  OJ-1535-A+B for Input-Output Practice (VII).c
+  OJ-1536-A+B for Input-Output Practice (VIII).c
+  OJ-1695-区间和.c
+  OJ-1924-独一无二 Ⅱ.c
+  OJ-2145-123报数 Ⅰ.c
+  OJ-2262-音乐研究.c
+  OJ-2263-这是一道签到题.c
+  正在生成代码...
+  正在编译...
+  OJ-2265-小飞机.c
+  OJ-2266-学姐的Helloworld.c
+  OJ-2268-kiki学程序设计基础.c
+  OJ-2270-爱因斯坦的名言.c
+  OJ-2273-牛牛学说话之浮点数.c
+  OJ-2274-牛牛学加法.c
+  OJ-2275-牛牛学除法.c
+  OJ-2276-牛牛学取余.c
+  OJ-2278-计算带余除法.c
+  OJ-2279-明天星期几.c
+  OJ-2281-helloword.c
+  OJ-2283-整数的个数.c
+  OJ-2284-整数的十位.c
+  OJ-2285-反向输出一个四位数.c
+  OJ-2287-计算平均成绩.c
+  OJ-2289-牛牛学矩形.c
+  OJ-2290-牛牛学立体.c
+  OJ-2292-你能活多少秒.c
+  OJ-2293-时间转换.c
+  OJ-2295-计算机内存.c
+  正在生成代码...
+  正在编译...
+  OJ-2298-组队比赛.c
+  OJ-2299-平方根.c
+  OJ-2300-长方形.c
+  OJ-2301-使徒来袭.c
+  OJ-2302-白兔的分身术.c
+  OJ-2303-纸牌.c
+  OJ-2304-Tobaku Mokushiroku Kaiji.c
+  OJ-2305-珂朵莉的假动态仙人掌.c
+  OJ-2306-旅游观光.c
+  OJ-2308-挂科.c
+  OJ-2309-得不到的爱情.c
+  OJ-2312-默契.c
+  OJ-2313-整除判断.c
+  OJ-2315-吃瓜群众.c
+  OJ-2316-跳格子.c
+  OJ-2317-小名的回答.c
+  OJ-2319-判断闰年.c
+  OJ-2320-统计数据正负个数.c
+  OJ-2321-小乐乐是否被叫家长.c
+  OJ-2322-最大值最小值.c
+  正在生成代码...
+F:\Gitee代码库\acm-lab-oj-algorithm-exercise\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-2317-小名的回答.c : fatal  error C1090: PDB API 调用失败，错误代码“3”: F:\Gitee代码库\acm-lab-oj-algorithm-exercise\OJ或PTA或课堂练习\OJ或PTA或课堂练习\x64\Debug\vc143.pdb

@@ -1,0 +1,874 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="OJ-2277-浮点除法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2269-疫情死亡率.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2367-魔法数字变换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2280-开学.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2286-总成绩和平均分计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2282-a+b.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2267-乘法表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2323-送分题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2288-牛牛学梯形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2311-卡拉兹函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2324-四季.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2350-绩点.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2305-珂朵莉的假动态仙人掌.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2301-使徒来袭.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2303-纸牌.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2302-白兔的分身术.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2321-小乐乐是否被叫家长.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2263-这是一道签到题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2265-小飞机.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2289-牛牛学矩形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2365-拯救小a.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2360-成绩统计.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2279-明天星期几.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2374-好数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2316-跳格子.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2377-数位之和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2285-反向输出一个四位数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2266-学姐的Helloworld.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2268-kiki学程序设计基础.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2270-爱因斯坦的名言.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2281-helloword.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2273-牛牛学说话之浮点数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2274-牛牛学加法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2275-牛牛学除法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2276-牛牛学取余.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2283-整数的个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2284-整数的十位.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2290-牛牛学立体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2295-计算机内存.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2287-计算平均成绩.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2292-你能活多少秒.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2293-时间转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1050-大写字母.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1051-数字字符.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2299-平方根.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2300-长方形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2313-整除判断.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2315-吃瓜群众.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2308-挂科.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2312-默契.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2317-小名的回答.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1052-累加.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1053-累加2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1529- A+B for Input-Output Practice (I).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1530-A+B for Input-Output Practice (II).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1531-A+B for Input-Output Practice (III).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1532-A+B for Input-Output Practice (IV).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1533-A+B for Input-Output Practice (V).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1534-A+B for Input-Output Practice (VI).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1535-A+B for Input-Output Practice (VII).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1536-A+B for Input-Output Practice (VIII).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2304-Tobaku Mokushiroku Kaiji.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2306-旅游观光.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2309-得不到的爱情.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2320-统计数据正负个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2319-判断闰年.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2322-最大值最小值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2325-B是不是太迟了.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2327-单位换算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2330-不高兴的津津.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2333-数字三角形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2378-箱子归位.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2379-栗酱和火柴.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2328-排队领水.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2337-牛牛学数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2338-牛牛学数列2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2339-牛牛学数列3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2340-牛牛学数列4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2341-牛牛学数列5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2342-牛牛学数列6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2343-标题统计.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2366-YoungManDon%27tSayFive.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2375-3和5和7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2484-a+b Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2456-原码，反码与补码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2405-李在赣神魔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2354-黑大火与他的猫.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2298-组队比赛.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2278-计算带余除法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2331-ISBN号码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2332-上下金字塔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2348-金币.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2361-糖果俱乐部.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2262-音乐研究.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2352-整数个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2363-热杆上的蚂蚁.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2364-焦虑的蚂蚁.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2359-最大的差.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2362-数字计数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1000-A+B.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1001-最小值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1002-三角形个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2345-有趣的二进制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2368-淘淘摘苹果.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2391-二进制？十进制！.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2344-栗酱数数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1695-区间和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2440-数位五五.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2390-课程满意度计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1034-XOR（异或）Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1035-XOR（异或）Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1010-前缀和 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2349-托米历险记.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2353-栗酱的文明2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2351-买铅笔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1036-XOR的优先级.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1042-最大值最小值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1026-原码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1027-补码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1028-lowbit.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1025-子序列的和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1037-状态表示 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1033-置0.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1032-置1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2370=级数求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2383-记数问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2397-杨辉三角.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1029-population count_1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1030-population count_2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1040-魔幻跳跃 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1038-状态表示 Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1039-状态表示 Ⅲ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2402-矩阵转置.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2403-wyh的矩阵.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1067-独一无二 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2373-博弈与核心能源动力.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2389-求逆序数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2398-矩阵元素定位 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2428-字符串操作.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1006-highbit.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1054-多项式乘积.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2407-回型矩阵.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2399-上三角矩阵判定.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2388-数列下标.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2415-斗兽棋.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2392-序列中整数去重.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2459-浮点数拷贝.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1273-桶排序 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2420-字符统计.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2463-矩阵元素定位 Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2448-The Biggest Water Problem.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2436-勇气获得机【无数据】.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2371-cayun日常之赏月.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2385-校门外的树 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1222-九进制转十进制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="oj-2347-只能吃土豆的牛牛.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2492-能不能整除.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2372-鹏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2409-竞赛技巧.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2427-译码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1043-间隔输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2413-奖学金.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1048-还原前缀和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1046-差分数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1017-次大值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1058-阶乘.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1274-桶排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2422-笨小猴.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2326-前天是哪天.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2346-数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2416- 珂朵莉的假toptree Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2418-简写单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2396-有序数列合并.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1112-归并排序 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1924-独一无二 Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1140-寻找独一无二的数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2145-123报数 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1173-快速排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2423-添加逗号.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1136-前缀和 Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2501-删除空行.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2502-拷贝文章.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2437-数字统计 Ⅰ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2473-数字统计 Ⅱ.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1055-多项式求值1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1060-寻找整数1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2410-明明的随机数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1127-编号与位置.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2504-删子串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-24.1.26-作业.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-24.1.25-作业.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-24.1.27-作业.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-24.1.30-作业.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-24.2.2-作业.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1208-字符和字符串字面值以及string对象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1164-大雄的作业 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1056-多项式求值2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1057-求和3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1059-交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1061-寻找整数2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1041-最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1063-最少砝码 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1066-第一个大于.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2531-铺骨牌+.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2546-约数和 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1948-最好的文档.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1949-什么是机器学习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1950-程序员买包子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1951-进化论.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1782-等差数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1952-猜帽子游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1091-三棵树 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1963-完全图 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2606-堆排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1134-归并排序 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2617-高精度加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2602-单链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2712-大盗阿福.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1148-01背包 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1149-01背包 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1150-01背包 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1159-多重背包 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1822-栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2814-最优乘车.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1201-最长上升子序列 Ⅳ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2876-p[i]最大的概率.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2795-走迷宫.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2799-Dijkstra求最短路 I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2797-n-皇后问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2417-BFS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1233-大笨钟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2017-Collecting Bugs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2859-优惠券和收藏家问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2860-帽子分配问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2861-球和箱子 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2862-球和箱子 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2863-球和箱子 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2864-最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2865-最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2867-取球游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2875-树上游走.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1234-敲笨钟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1235-吉老师的回归.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2355-进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2358-Cantor表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2386-比较月亮大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2387-求距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2505-文章格式化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2866-最大与最小的差.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2868-链上游走.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2869-完全图上游走游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2870-完全二分图上游走 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2871-完全二分图上游走 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2872-菊花图上游走 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1078-快速幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2651-快速幂求逆元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2873-菊花图上游走 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2874-菊花图上游走 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2757-热҈热҈热҈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2758-谁进线下了？.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2796-排列数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1626-输出整数各位数字 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1631-输出整数各位数字 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1117-区间最大值(RMQ).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1295-树状数组【模板1】.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1296-树状数组【模板2】.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1297-树状数组【模板3】.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1096-2^K区间最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1097-2^K区间最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1118-区间最小值(RMQ).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1293-树状区间 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1045-三角形个数 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1294-树状区间 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1320-树状区间 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1298-树状数组【模板4】.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1044-士兵训练.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1065-第一个小于.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1019-找圈子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1327-越查越快.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1326-同一棵树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1325-森林.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1328-最小生成树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1372-Find them, Catch them.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1375-Cube Stacking.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1119-树状数组 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
