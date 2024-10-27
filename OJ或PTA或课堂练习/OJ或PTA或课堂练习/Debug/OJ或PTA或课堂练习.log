@@ -1,3 +1,8 @@
-﻿  OJ-1119-树状数组 Ⅰ.cpp
-D:\Gitee代码库\acm-lab-oj-algorithm-exercise\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1119-树状数组 Ⅰ.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  OJ或PTA或课堂练习.vcxproj -> D:\Gitee代码库\acm-lab-oj-algorithm-exercise\OJ或PTA或课堂练习\Debug\OJ.exe
+﻿  OJ-1307-树状数组【模板5】.cpp
+  OJ-1334-敌兵布阵.cpp
+D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1334-敌兵布阵.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1334-敌兵布阵.cpp(18,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1334-敌兵布阵.cpp(29,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1334-敌兵布阵.cpp(38,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码...
+  OJ或PTA或课堂练习.vcxproj -> D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\Debug\OJ.exe

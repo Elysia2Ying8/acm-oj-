@@ -870,5 +870,20 @@
     <ClCompile Include="OJ-1119-树状数组 Ⅰ.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="OJ-1082-母牛的故事 Ⅳ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1120-树状数组 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1121-树状数组 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1307-树状数组【模板5】.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1334-敌兵布阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
