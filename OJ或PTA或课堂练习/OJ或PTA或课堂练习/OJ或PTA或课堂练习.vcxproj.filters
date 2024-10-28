@@ -885,5 +885,17 @@
     <ClCompile Include="OJ-1334-敌兵布阵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="OJ-1135-逆序对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1171-K区间最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1172-K区间最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1162-滑动窗口.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

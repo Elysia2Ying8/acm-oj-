@@ -187,13 +187,17 @@
     <ClCompile Include="OJ-1121-树状数组 Ⅲ.cpp" />
     <ClCompile Include="OJ-1127-编号与位置.c" />
     <ClCompile Include="OJ-1134-归并排序 Ⅱ.cpp" />
+    <ClCompile Include="OJ-1135-逆序对.cpp" />
     <ClCompile Include="OJ-1136-前缀和 Ⅱ.c" />
     <ClCompile Include="OJ-1140-寻找独一无二的数.c" />
     <ClCompile Include="OJ-1148-01背包 Ⅰ.cpp" />
     <ClCompile Include="OJ-1149-01背包 Ⅱ.cpp" />
     <ClCompile Include="OJ-1150-01背包 Ⅲ.cpp" />
     <ClCompile Include="OJ-1159-多重背包 Ⅰ.cpp" />
+    <ClCompile Include="OJ-1162-滑动窗口.cpp" />
     <ClCompile Include="OJ-1164-大雄的作业 Ⅰ.cpp" />
+    <ClCompile Include="OJ-1171-K区间最大值.cpp" />
+    <ClCompile Include="OJ-1172-K区间最小值.cpp" />
     <ClCompile Include="OJ-1173-快速排序.cpp" />
     <ClCompile Include="OJ-1201-最长上升子序列 Ⅳ.cpp" />
     <ClCompile Include="OJ-1208-字符和字符串字面值以及string对象.cpp" />
