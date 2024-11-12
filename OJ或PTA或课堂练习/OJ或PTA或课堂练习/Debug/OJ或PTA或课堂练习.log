@@ -1,3 +1,5 @@
-﻿  OJ-1172-K区间最小值.cpp
-D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1172-K区间最小值.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+﻿  OJ-1628-找完数.cpp
+  OJ-2048-Choose the best route.cpp
+D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-2048-Choose the best route.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
   OJ或PTA或课堂练习.vcxproj -> D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\Debug\OJ.exe

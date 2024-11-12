@@ -897,5 +897,122 @@
     <ClCompile Include="OJ-1162-滑动窗口.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="OJ-2518-栈和排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1176-看病要排队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1807-格点 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1808-格点 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1733-代号大本钟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1737-删除字符 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1195-英语作文.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1264-STL Practice — map Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1265-STL Practice — map Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1266-STL Practice — map Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1892-统计数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1912-Managing Difficulties.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1918-Flying to the Mars.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1488-非常可乐.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1730-三子棋 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1779-数字三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1790-格点 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1783-括号序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1785-左孩子右兄弟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1230-走方阵 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2619-高精度乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2676-货仓选址.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2677-排队打水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2678-合并果子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2681-区间选点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1916-好消息，坏消息.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1336-Just a Hook.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1337-I Hate It.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1330-区间树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1340-Lost Cows.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1816-悼念512汶川大地震遇难同胞——重建希望小学.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1913-最大和区间 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1228-石子合并 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1688-石子合并 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2721-环形石子合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1624-输出三角形字符阵列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1622-求e的近似值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1628-找完数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2048-Choose the best route.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
