@@ -33,3 +33,36 @@
 //}
 
 //´íµÄ
+
+//#include<bits/stdc++.h>
+//using namespace std;
+//const int mxn = 1e5 + 5;
+//int n;
+//map<string, bool> id;
+//signed main()
+//{
+//	ios::sync_with_stdio(0), cin.tie(0), cout.tie(0);
+//	string a;
+//	int b;
+//	cin >> n;
+//	for (int i = 1; i <= n; ++i) {
+//		cin >> a >> b;
+//		id[a] = b;
+//	}
+//	vector<string> wait_erase;
+//	for (const auto& i : id) {
+//		if (i.second == 0)
+//			wait_erase.push_back(i.first);
+//	}
+//	for (const auto& i : wait_erase) {
+//		id.erase(i);
+//	}
+//	int ans = 0;
+//	for (auto i = id.begin();i!=id.end();++i) {
+//		++ans;
+//		cout << i->first << (next(i) == id.end() ? '\n' : ' ');
+//	}
+//	if (ans == 1)cout << "Da Ben Zhong is found!" << '\n';
+//	else if (ans > 1)cout << "There are " << ans << " suspects." << '\n';
+//	return 0;
+//}

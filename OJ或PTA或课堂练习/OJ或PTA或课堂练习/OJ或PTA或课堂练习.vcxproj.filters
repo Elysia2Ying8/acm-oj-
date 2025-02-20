@@ -1014,5 +1014,185 @@
     <ClCompile Include="OJ-2048-Choose the best route.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="OJ-1446-Reward.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-Contest1268-湖州师范学院2024年程序设计新生赛（热身赛）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1101-最小值 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1329-二分区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1331-含点区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1332-寻找最小划分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1335-Minimum Inversion Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1379-小希的迷宫.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1254-树的深度 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2648-最大公约数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1735-取行李.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1740-取石子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1738-删除字符 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1791-车牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1801-求函数值 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1802-求函数值 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1803-求函数值 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1804-求函数值 Ⅳ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1805-求函数值 Ⅴ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2365-拯救小a.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2900-青青草原 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2368-陶陶摘苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1710-走方阵 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2896-中国大学生程序设计竞赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2898-青青草原 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2263-这是一道签到题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1139-和谐度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1925-魔幻跳跃 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1821-Pills.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1128-魔力小球.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2620-高精度除法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2904-菱形 Ⅲ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2908-位反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2266-学姐的Helloworld!.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2905-减法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2673-区间最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2643-分解质因数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2146-123报数 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2224-霓虹灯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2919-格式化句子 Ⅰ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2918-格式化句子 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-2915-lowbit Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1814-骨牌铺方格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1815-线分割平面.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1817-Tiling_easy version.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1855-排列字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1917-sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1923-Shopping.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1927-最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1938-求全排列 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1939-手机的诱惑.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1953-剪切粘贴.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1964-完全图 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1018-C+D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1068-最大和区间 Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1437-A Cubic number and A Cubic Number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1094-前K最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1095-前K最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1104-买卖股票的最佳时机 I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OJ-1105-买卖股票的最佳时机 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

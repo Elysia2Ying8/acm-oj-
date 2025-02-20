@@ -1,5 +1,9 @@
-﻿  OJ-1628-找完数.cpp
-  OJ-2048-Choose the best route.cpp
-D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-2048-Choose the best route.cpp(4,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+﻿  OJ-1094-前K最大值.cpp
+  OJ-1095-前K最小值.cpp
+  OJ-1104-买卖股票的最佳时机 I.cpp
+  OJ-1105-买卖股票的最佳时机 II.cpp
+D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\OJ或PTA或课堂练习\OJ-1105-买卖股票的最佳时机 II.cpp(22,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
   正在生成代码...
+Debug\OJ-2263-这是一道签到题.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\OJ-2365-拯救小a.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
   OJ或PTA或课堂练习.vcxproj -> D:\Github代码库\acm-oj-\OJ或PTA或课堂练习\Debug\OJ.exe
